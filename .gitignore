@@ -6,3 +6,5 @@ datasets/
 /tcpd_env
 *.pdf
 *.tex
+abed_results
+old_abed_results
