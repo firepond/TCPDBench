@@ -1,3 +1,8 @@
 */__pycache__/
 *.pyc
 datasets/
+/analysis/output
+*.json
+/tcpd_env
+*.pdf
+*.tex
