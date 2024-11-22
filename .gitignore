@@ -8,3 +8,4 @@ datasets/
 *.tex
 abed_results
 old_abed_results
+execs/R/rlibs/
